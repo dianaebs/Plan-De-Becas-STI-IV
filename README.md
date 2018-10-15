@@ -4,13 +4,17 @@ Promocion IV Servicios de TI.
 
 DGTIC- UNAM
 
-Alumno: [Diana Eloisa Bautista Suarez] [elisartemis_mond@live.com.mx]
+Alumno: Diana Eloisa Bautista Suarez 
+	[elisartemis_mond@live.com.mx]
+
 
 Responsables:
 
--Laura Lyen Peñza Reynoso
--Susana Torres Reynoso
 
-Formacion de Recursos Humano
+-Laura Lyen Peñaloza ReynosoS
+
+:-Susana Torres Reynoso
+
+Formacion de Recursos Humanos
 Direccion de Sistemas y Servicios Institutcionales
 
