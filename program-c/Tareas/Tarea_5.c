@@ -3,21 +3,21 @@ int main()
 {
          /*MIS VARIABLES*/
 
-int valor >0;  
+int valor;  
 int decimal;
 char caracter;
 
 	
         /*SOLICITUD DE NUMEROS Y CARACTERES*/
 
-printf("Ingrese por favor un entero: %d\n");
-scanf("%d",&valor);
+printf("Ingrese por favor un entero: ");
+scanf(" %d",&valor);
 
-printf("Ahora ingrese un valor, puede no ser entero: %d\n");
-scanf("%d",&decimal);
+printf("Ahora ingrese un valor, puede no ser entero:\n");
+scanf(" %d",&decimal);
 
-printf("Finalmente ingre cualquier caracter, puede ser una letra o signo: %c\n");
-scanf("%c",&caracter);
+printf("Finalmente ingre cualquier caracter, puede ser una letra o signo:\n");
+scanf(" %c",&caracter);
 
 
 
