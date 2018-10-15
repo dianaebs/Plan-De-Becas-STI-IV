@@ -11,9 +11,9 @@ Alumno: Diana Eloisa Bautista Suarez
 Responsables:
 
 
--Laura Lyen Peñaloza ReynosoS
+-Laura Lyen Galicia Peñaloza
 
-:-Susana Torres Reynoso
+-Susana Torres Reynoso
 
 Formacion de Recursos Humanos
 Direccion de Sistemas y Servicios Institutcionales
