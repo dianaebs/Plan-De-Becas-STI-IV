@@ -1,6 +1,6 @@
 #include <stdio.h>
  	// TAREA 9
-	/*Vocal-Consonante con SWITSCH*/
+	/*Vocal-Consonante con SWITCH*/
 
 int main (){ 
 char letra;
@@ -22,14 +22,13 @@ switch(letra)
 	case'U': 
 	case'u':
 	
-	print("La letra es una vocal\n",&letra);
-	
+	printf("La letra es una vocal%c\n",&letra);
 	break;
 	
 	default:
-	  printf("La letra es una consonante",&letra);
+		printf("La letra es una consonante\n",&letra);
+	break;
+}
 
 }
-}
-
 
