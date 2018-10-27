@@ -3,26 +3,47 @@
 int main (){
 
 	/*MIS VARIABLES*/
-int s1, s2, s3, s4, s5, s6, s7, s8, s9, s10, s11, s12, s13;
-char cat;
+int numero, signo;
 
-	/*TABLA CON SIGNOS Y CATEGORIA*/
+	/*Tabla con signos*/
 printf("\t\tLISTADO DE ZIGNOS DEL ZODIACO\n\n");
-printf("\t\tSIGNO\n\n")
-	1 Aries	
-	2 Tauro
-	3 Geminis
-	4 Cancer
-	5 Leo
-	6 Virgo
-	7 Libra
-	8 Escorpio
-	9 Sagitario
-	10 Capricornio
-	11 Acuario
-	12 Picis");
+printf("\t\t\tSIGNO\n\n");
+printf("\t\t1 Aries\n");	
+printf("\t\t2 Tauro\n");
+printf("\t\t3 Geminis\n");
+printf("\t\t4 Cancer\n");
+printf("\t\t5 Leo\n");
+printf("\t\t6 Virgo\n");
+printf("\t\t7 Libra\n");
+printf("\t\t8 Escorpio\n");
+printf("\t\t9 Sagitario\n");
+printf("\t\t10 Capricornio\n");
+printf("\t\t11 Acuario\n");
+printf("\t\t12 Picis\n\n");
+
+printf("Ingrese el numero de su signo zodiacal: \n");
+scanf("%d",&numero);
+
+	if(2 || 6 || 10)
+	{printf("Su signo pertenece a la categoria Tierra\n");}
 
 
+else	
+	if(4 || 8 || 12)
+	{printf("Su signo pertenece a la categoria Agua\n");}
+	
+
+else
+	if(1 || 5 || 9)
+	{printf("Su signo pertenece a la categoria Fuego\n");}
+
+
+else	
+	if(3 || 7 || 11)
+	{printf("Su signo pertenece a la categoria Aire\n");}
+	
+
+return 0;
 
 }
 
